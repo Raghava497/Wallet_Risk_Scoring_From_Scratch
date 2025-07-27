@@ -5,9 +5,9 @@ This project analyzes 103  wallet adresses using transaction history from the **
 
 ## 📁 Files Included
 
-- `wallet id.csv`:File containing wallet adresses.
+- `wallet id-Sheet1.csv`:File containing wallet adresses.
 - `wallet_risk_scores.csv`: Final output with wallet IDs and risk scores.
-- `risk_scoring.ipynb`: The main Colab notebook containing the full code pipeline.
+- `Wallet_Risk_Scoring_From_Scratch.ipynb`: The main Colab notebook containing the full code pipeline.
 - `README.md`: This file, documenting the workflow and methodology.
 
 ## 🚀 Objective
